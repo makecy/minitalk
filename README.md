@@ -6,7 +6,6 @@ This is a simple implementation of the Minitalk project for 42 school. Minitalk 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Examples](#examples)
 - [Contributing](#contributing)
 - [License](#license)
 
