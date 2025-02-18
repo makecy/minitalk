@@ -11,6 +11,7 @@ This is a simple implementation of the Minitalk project for 42 school. Minitalk 
 
 ## Installation
 To use this project, simply clone this repository to your local machine using the following command:
+git clone https://github.com/makecy/minitalk.git
 
 
 ## Usage
